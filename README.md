@@ -30,7 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/ST3V3NP3RRY/four-card-feature/blob/main/Screenshots/Screenshot%202022-05-10%20at%2016-30-12%20Frontend%20Mentor%20Four%20card%20feature%20section.png)
+
+![](https://github.com/ST3V3NP3RRY/four-card-feature/blob/main/Screenshots/Screenshot%202022-05-10%20at%2016-30-50%20Frontend%20Mentor%20Four%20card%20feature%20section.png)
 
 ### Links
 
